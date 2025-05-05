@@ -17,7 +17,7 @@ app.use(morgan("dev"))
 
 
 app.use(cors({
-    origin: 'https://lit-studio-frontend-ips8.vercel.app',
+    origin: 'https://lit-studio-frontend.vercel.app',
     credentials: true
 }))
 
